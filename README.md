@@ -1,7 +1,7 @@
 # Rice Farmers' Health and Pesticude Use
 
 ## Literature Review
-xx 
+- Rice farmer are lack of knowledge on pesticide uses and misunderstand about routes of pesticide untering to their body. [Santaweesuk, 2020](https://www.emerald.com/insight/content/doi/10.1108/jhr-09-2019-0204/full/pdf#page=3.77)
 xx 
 xx
 
