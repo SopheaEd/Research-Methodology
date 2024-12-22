@@ -52,8 +52,9 @@ Steps:
 - Research scientifics should *always be connect to theory*
 - A *good research question* must have a __theoretical connection__ for it to be interesting
 - __A Theory__ canbe thought of as *a series of reasonable proposition about some social or natural phenomenon, propositions that can be tested or assessed against empirical evidence*
-- 
 
+# Reference
+Introducing to Social Research Methods Essential for Getting the Edge by Janet M.Ruane, 2016
 
 
 
