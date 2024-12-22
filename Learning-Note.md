@@ -20,9 +20,19 @@ Step for research process:
    - select the right statistics/techniques for answering the research question
 5. Writting/communication phase
    - share the details as well as the results of your executed study in a well-crafted written report/article
-- Comming up with the right question
-- Reviewing the literature review
-- The case & theory
+### Comming up with the right question
+- Not all questions are worthy
+- Questions should be **researchable**
+- Questions must be **interesting**
+  - resolves a conflict
+  - extends an established question to a new population or subpopulation or to a new time period
+  - employs a new strategy
+  - measures a new measures for addressing an old question
+  - addresses a gap
+  - keep a supprise element
+  - finds a new answer to an old question
+- Questions must be **answerable** through _scientific methods_ and _empirical data_
+  
 ## The placement of theory in the research
 ## The level of theory guiding
 ## More planing & strategizing
