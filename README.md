@@ -1,1 +1,2 @@
-# Learning Notes on research methodology
+# Research methodology notes
+
