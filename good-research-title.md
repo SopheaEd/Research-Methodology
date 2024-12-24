@@ -8,3 +8,5 @@ A suggestion from Dr. Ly Kimlong, a good title of the thesis should be:
 - No conjunction 'or' and 'and'
 - Contained concepts
 - Short and describe the work
+
+Through my observation, I notice that [Dr. Sok Serey](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=sok+serey&btnG=&oq=sok) put all concepts used in the research to his research title. For instance, `Adaptation, resilience and sustainable livelihoods in the communities of the Lower Mekong Basin, Cambodia`. This contains concepts including _adaptation, resilience and sustainable livelihoods, and location of the study_. And he study how these concepts are linked to gether. 
