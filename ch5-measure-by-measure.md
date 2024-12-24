@@ -46,10 +46,42 @@
 
 ## Operationalization
 - Once a researcher has achieved clarity, she/he can then get on the task of **finding the best empirical counterpart for the concept**.
-- **Operationalization process** refer to process of finding __reasonable__ and __accurate__ impirical indicators for concepts.
+- **Operationalization process** refer to process of finding __*reasonable*__ and __*accurate*__ impirical indicators for concepts.
+- Some measurement ideas are better than others
+
+### Some key guideline for the operationalization process
+- Contrive : to invent or create ideas/inidicators
+- **Natural measures** refers to no "artifical" or concocted measurement are divised. It naturally occurring evidence by way of empirically documenting a variable.
+- It helps to reduce "__Reactivity effeccts__".
+- **Reactivity effects** occurs when research participants become aware of the measurement process and consequently change/alter their behaviors as a result.
+- **Contrived measures** measures intentionally designed or developed bby the researcher in order to generate empirical evidence of a variable.
+  - performance test
+  - health check-ups
+  - memory tests
+  - surveys
+
+ ### Using one or more variables in translating concepts
+ - How many variables?
+   - consider about simple or compelex
+   - simple concept can be one dimension, and complex concept need multiple dimension.
+  - A simple concept can be measured by *__item measures__* while complex concepts require *__composite measures__*.
+  - **Item measure** - a single indicator used to document a concept (i.e. one question is typically used to measure gender or age or material status)
+  - **Composite measure** refers to a multiple item measure; serveral indicators are used together to measure a complex concept.
+    - These multiple item measure are referred to as indexes or scales.
+    - provides more valid documentation.
+### Levels of measurement
+**Measurement** refers to the process by which mumbers are attached to the values of variables (alternate: the process by which abstract concepts are translated into empirical indicators). There are 04 levels of indicators including **nominal, ordinal, interval, and ratio**. 
+- Measurement envolves a *numerical translation* that is the process by which we attatch nummbers to indictors.
+- **Norminal** is once that uses numbers to identify or label the values a variable; aka categorical measure.
+- **Ordinal level measure** is one that uses numbers to *rank* order the values of a variable.
+  > How would you describe your interest in politics?
+  > - No interest
+  > - Low
+  > - Moderate
+  > - High
+
+- **Interval measure** is one that ueses numbers to identify, order and indicate equal distance between the values of a variable. (Learn more here)
 - 
-
-
 
 
 
