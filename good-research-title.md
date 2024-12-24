@@ -3,6 +3,7 @@ According to [[Mack, 2012]](https://www.researchgate.net/profile/Chris-Mack-2/pu
 - Clear aim of work
 - Specific, but still describe the work
 - Short (4-21 words)
+
 A suggestion from Dr. Ly Kimlong, a good title of the thesis should be:
 - No conjunction 'or' and 'and'
 - Contained concepts
