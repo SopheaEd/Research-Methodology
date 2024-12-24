@@ -62,7 +62,7 @@
 
  ### Using one or more variables in translating concepts
  - How many variables?
-   - consider about simple or compelex
+   - depends on how compelx a simple or compelex of the concepts are. 
    - simple concept can be one dimension, and complex concept need multiple dimension.
   - A simple concept can be measured by *__item measures__* while complex concepts require *__composite measures__*.
   - **Item measure** - a single indicator used to document a concept (i.e. one question is typically used to measure gender or age or material status)
@@ -81,8 +81,11 @@
   > - High
 
 - **Interval measure** is one that ueses numbers to identify, order and indicate equal distance between the values of a variable. (Learn more here)
-- 
+- **Ratio level meausure** is one that uses number to express values of variables as real number or counts; aka quantitative measures. 
 
-
+## Operational definitions
+- **Operational definition** helps to define a variable that indicate all of the step requirement to actual measure the variable.
+- It gives a detailed statement regarding how variables are or stating full operatal definition.
+- Learn more on page 109 of the book. 
 
 
