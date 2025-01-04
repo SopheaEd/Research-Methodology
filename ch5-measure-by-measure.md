@@ -51,7 +51,7 @@
 - Some measurement ideas are better than others
 
 ### Some key guideline for the operationalization process
-- Contrive : to invent or create ideas/inidicators
+- __Contrive__ : to invent or create ideas/inidicators
 - **Natural measures** refers to no "artifical" or concocted measurement are divised. It naturally occurring evidence by way of empirically documenting a variable.
 - It helps to reduce "__Reactivity effeccts__".
 - **Reactivity effects** occurs when research participants become aware of the measurement process and consequently change/alter their behaviors as a result.
@@ -62,9 +62,9 @@
   - surveys
 
  ### Using one or more variables in translating concepts
- - How many variables?
-   - depends on how compelx a simple or compelex of the concepts are. 
-   - simple concept can be one dimension, and complex concept need multiple dimension.
+ - __How many variables?__
+   - depends on how a __simple__ or __compelex__ of the concepts are. 
+   - simple concept can be one __dimension__, and __complex concept__ need __multiple dimension__.
   - A simple concept can be measured by *__item measures__* while complex concepts require *__composite measures__*.
   - **Item measure** - a single indicator used to document a concept (i.e. one question is typically used to measure gender or age or material status)
   - **Composite measure** refers to a multiple item measure; serveral indicators are used together to measure a complex concept.
