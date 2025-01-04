@@ -9,6 +9,7 @@ Unit analysis help use to:
 - ch2-p37
 - ch7
 - p143
+- read ch10
 
 ### Finding the unit
 1. Check to see what the researcher sampled to get the data
