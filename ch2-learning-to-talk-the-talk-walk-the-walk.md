@@ -11,6 +11,11 @@ Unit analysis help use to:
 - p143
 - read ch10
 
+```
+Read chapter 5
+Do remaining assignment
+```
+
 ### Finding the unit
 1. Check to see what the researcher sampled to get the data
   2. Individuals
