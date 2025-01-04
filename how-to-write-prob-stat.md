@@ -5,13 +5,34 @@
 - The rest of the paragraph(s) is its elaboration
   - [ ] cite scholarly reference
 - Problem statement should answer to these question:
-  1. What is the problem? What?
-  2. Where is the problem? Where?
-  3. How to solve the problem? **How**?
-  4. Why you want to solve the problem? **Why**?
-  5. Is the current problem?
-  6. 
+    - What is the problem? What?
+    - Where is the problem? Where?
+    - How to solve the problem? **How**?
+    - Why you want to solve the problem? **Why**?
+    - Is the current problem?
 
 ## How to write problem statement by class note
 - [ ] Read Ch4 for foundation of the research problem
 - [ ] Come up with the right question
+
+Researchable
+- answerable
+- reasonable
+- clear concept
+- clear indicators for measuring concept
+- good operational definition
+- provable by  empirical data
+- tangible evidence: sensory evidence, seeing, hearing, touching, smelling
+- current scientific methods
+
+Interesting:
+- resolving a conflict or debate
+- extend questions to new pop or subpop.
+- extends questionns
+
+Thinks about units
+- Individual
+- Households
+- Groups
+- and more
+
