@@ -1,5 +1,5 @@
 # Measuring by measure: Developing measures - making the absract concrete
-
+```
 >__First Takes__
 >- Concept as central to theory
 >- Concept as central to research
@@ -13,6 +13,7 @@
 >    - Ordinal
 >    - Interval
 >    - Ratio measures
+```
 
 ## Introduction
 - The wall of water that can accompany an earthquake is conveyed in the concept "__tsunami__".
