@@ -1,2 +1,3 @@
-# Research methodology notes
+# Class note for Research Methods
+
 
