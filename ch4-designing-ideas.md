@@ -13,9 +13,9 @@ Step for research process:
      - measurement
      - planned analysis
 3. __Data collection phase__
-       - pretesting
-       - pilot studies
-       - final data collection
+   - pretesting
+   - pilot studies
+   - final data collection
 4. __Analysis phase__
    - select the right statistics/techniques for answering the research question
 5. __Writting/communication phase__
