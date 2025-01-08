@@ -1,12 +1,12 @@
 
-There xxxx analysis method in qualitative research:
+There 03 analysis method in qualitative research:
 1. Content analysis
 2. Thematic analysis
 3. Discourse analysis
 
 ## Thematic analysis
-- identifying patterns
-- accessibility & flexibility (codeing and analyzing data systematically)
+- Identifying patterns
+- Accessibility & flexibility (codeing and analyzing data systematically)
   - can be conducted in different ways
   - deductive and inductive or theory-driven data coding and analysis
   - an inductive approach to data coding
