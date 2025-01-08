@@ -62,6 +62,14 @@ Cooper et all. 2012 suggested a six-phase approach to thematic analysis:
      3. Direct address the research question
 
      `focus, scope, and purpose`
+
+    - The analysis need to answer the question `so what`
+6. __Producing the report__
+   - compiling the story
+   - TA needs to be beyond description to make 'an argument' that answer the research question.
+   - Avoiding repetition, paraphrasing, unnecessary complexity, and passive phrase
+   - The themes connect logically and meaningfully, coherent
+
    
     
 
