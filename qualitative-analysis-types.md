@@ -20,7 +20,7 @@ More experiene analyst will:
   3. more quickly and confidently develop themes that need less reviewing and refining
 
 Cooper et all. 2012 suggested a six-phase approach to thematic analysis: 
-1. __Familiarizing Yourself with Data
+1. __Familiarizing Yourself with Data__
    - immerse yourself into data (reading & rereading texual data)
      - transcripts of the interviews
      - response to qualitative surveys
@@ -46,7 +46,23 @@ Cooper et all. 2012 suggested a six-phase approach to thematic analysis:
    - Collapsing or clustering codes to identify coherent & meaningfull patterns
    - A lot of codes also clustered around the issue of identiy but did not formm one obvious theme. 
    - Explore the relationship between themes and to consider how themes will work together in thelling an overall story about the data
-   - 
+  
+4. __Reviewing Potential Themes__
+   - Is this a theme?
+   - Is it useful for the research question?
+   - What the boundaries of this theme (what does it include and exclude)
+   - Are there enough or meaningful data to support this theme?
+   - Are the data too diverse and side ranging?
+  
+5. __Defining & naming themes__
+   - Clearly state what is unique and specific
+   - A few sentences are good
+     1. The theme should be focused
+     2. The theme should not be douplicated
+     3. Direct address the research question
+
+     `focus, scope, and purpose`
+   
     
 
 
