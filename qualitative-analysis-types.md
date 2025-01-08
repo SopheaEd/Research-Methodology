@@ -1,3 +1,4 @@
+
 There xxxx analysis method in qualitative research:
 1. Content analysis
 2. Thematic analysis
@@ -70,6 +71,8 @@ Cooper et all. 2012 suggested a six-phase approach to thematic analysis:
    - Avoiding repetition, paraphrasing, unnecessary complexity, and passive phrase
    - The themes connect logically and meaningfully, coherent
 
+## Reference
+> Cooper, H. E., Camic, P. M., Long, D. L., Panter, A. T., Rindskopf, D. E., & Sher, K. J. (2012). APA handbook of research methods in psychology, Vol 2: Research designs: Quantitative, qualitative, neuropsychological, and biological (pp. x-701). American Psychological Association.
    
     
 
