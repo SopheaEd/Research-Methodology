@@ -24,7 +24,7 @@
 
 ## Concepts & the research process
 - __Construct__ refers to concepts without empirical counterparts. It is a concept or mental abstraction that is not directly observable.
-- __Theory__ is a set of propositions or statements about how the world or some entity operates or works.
+> __Theory__ is a set of propositions or statements about how the world or some entity operates or works.
 
 ## Bring theory down to earth
 - __Translation process__ makes the concepts understandable to the empiricist.
