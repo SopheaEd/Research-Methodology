@@ -34,6 +34,14 @@
 - **Valid measures** refer to measures that actually measure what they claim to measure; measures that docs what hey claim to docs.
 
 ## Conceptualization
+```
+conceptualization
+different researchers, may perceive different meaning of concept
+offering theoretical definition of concepts
+operationalization process
+```
+
+
 - The researchers try to achieve conceptual clarity by offering **theoretical (aka norminal) definitions** of concepts.
 - **Theoretical (aka nominal or conceptual) definitions** refers to definitions that clarify the exact meaning of concepts being measured by offering synonyms for the concepts; aka dictionary definition.
 
@@ -60,8 +68,10 @@
   - health check-ups
   - memory tests
   - surveys
+ 
+- **Survey**
 
- ### Using one or more variables in translating concepts
+ ### one or more variables in translating concepts
  - __How many variables?__
    - depends on how a __simple__ or __compelex__ of the concepts are. 
    - simple concept can be one __dimension__, and __complex concept__ need __multiple dimension__.
