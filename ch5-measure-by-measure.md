@@ -1,28 +1,42 @@
 # Measuring by measure: Developing measures - making the absract concrete
 ```
->__First Takes__
->- Concept as central to theory
->- Concept as central to research
->- Translating concepts to variables
->  - Measurement validity
->  - Conceptual vs. contrived measures
->  - Product vs. behavioral measures
->  - Items vs. composite measures
->  - Levels of measurement
->    - Norminal
->    - Ordinal
->    - Interval
->    - Ratio measures
+First Takes
+- Concept as central to theory
+- Concept as central to research
+- Translating concepts to variables
+- Measurement validity
+- Conceptual vs. contrived measures
+- Product vs. behavioral measures
+- Items vs. composite measures
+- Levels of measurement
+  - Norminal
+  - Ordinal
+  - Interval
+  - Ratio measures
 ```
 
 ## Introduction
 - The wall of water that can accompany an earthquake is conveyed in the concept "__tsunami__".
 - The rise of sea levels and world temperature are now conveyed via the concept '__climate change__".
-- **Concepts** are essential communication tools for communicating.
-  - give & receive info effectively
+- **Concepts** are mental absractions or image that serve categorize ideas, places, things, or events. 
  
 
 ## Concepts & the research process
+```
+science must concret and empirical
+concepts are apart from the empirical world
+concepts are mental absractions, so they are antithesis of concrete empiricism.
+Some concepts are apart from the empirical world they lack an empirical indicator. This is called 'construct'. (using likert-scale)
+```
+__Theory__
+```
+Theory
+Concepts forms a theory.
+Theories consist of a series of statements (propositions) about relationship between concepts.
+
+```
+
+
 - __Construct__ refers to concepts without empirical counterparts. It is a concept or mental abstraction that is not directly observable.
 > __Theory__ is a set of propositions or statements about how the world or some entity operates or works.
 
@@ -39,6 +53,7 @@ conceptualization
 different researchers, may perceive different meaning of concept
 offering theoretical definition of concepts
 operationalization process
+abstrction
 ```
 
 
@@ -71,7 +86,7 @@ operationalization process
  
 - **Survey**
 
- ### one or more variables in translating concepts
+ ### One or more variables in translating concepts
  - __How many variables?__
    - depends on how a __simple__ or __compelex__ of the concepts are. 
    - simple concept can be one __dimension__, and __complex concept__ need __multiple dimension__.
@@ -97,6 +112,20 @@ operationalization process
 ## Operational definitions
 - **Operational definition** helps to define a variable that indicate all of the step requirement to actual measure the variable.
 - It gives a detailed statement regarding how variables are or stating full operatal definition.
-- Learn more on page 109 of the book. 
+- Learn more on page 109 of the book.
+
+__concepts in social science__ 
+```
+express in words
+concept of marriage (define it)
+concept of sibling rivalry
+concepts are essential tools for communicating
+concepts in math are shown in math equation
+concepts in social science are shown in words
+
+```
+
+![image](https://github.com/user-attachments/assets/1e174ada-e046-4830-bc7a-9d8a4ca302ed)
+
 
 
