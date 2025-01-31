@@ -14,13 +14,13 @@ Research uses scientiifc knowledge
      - experts share different experiences
    1.4. Intuition - out of the feeling and no reason to explain
 2. __More reasonable ways of knowing__
-   - Rationalism: knowledge generation based on the power of reasoning
+   - *Rationalism*: knowledge generation based on the power of reasoning
      - Major premise: All human is died
      - Minor premise: Mr. A is human.
      - Logical conclusion: Then Mr. A is died either.
-   - Empiricalism: knowledge generation based on empirical evidence or data.
+   - *Empiricalism*: knowledge generation based on empirical evidence or data.
      - 5 senses (eye, ear, nose, taste, touch)
-3. Scientific way of knowing
+3. __Scientific way of knowing__
    - Reasonalble theory
    - Scientific methods
 
