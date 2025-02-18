@@ -56,7 +56,7 @@ promise - to tell someone that you will doing someting
 
 ```
 
-Replication
+__Replication__
 ```
 replciation
 true
@@ -75,7 +75,7 @@ probability
 increasing confidence
 
 ```
-Science
+__Science__
 ```
 theory based
 empirical
